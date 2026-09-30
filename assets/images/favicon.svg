@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2005/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="pulse-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b82f6"/>
+      <stop offset="50%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+  </defs>
+  <!-- Background Rounded -->
+  <rect width="64" height="64" rx="14" fill="#0f172a"/>
+  <rect x="2" y="2" width="60" height="60" rx="12" fill="none" stroke="url(#pulse-grad)" stroke-width="2"/>
+  <!-- Pulse Wave Icon -->
+  <path d="M12 34 L22 34 L27 18 L34 46 L40 28 L44 34 L52 34" 
+        fill="none" 
+        stroke="url(#pulse-grad)" 
+        stroke-width="4" 
+        stroke-linecap="round" 
+        stroke-linejoin="round"/>
+  <circle cx="27" cy="18" r="3" fill="#60a5fa"/>
+  <circle cx="34" cy="46" r="3" fill="#818cf8"/>
+</svg>
