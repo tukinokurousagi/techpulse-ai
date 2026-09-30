@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>TechPulse AI</title>
-    <link href="https://techpulse.ai/feed.xml" rel="self" />
-    <link href="https://techpulse.ai/" />
-    <updated>2026-09-30T16:27:10.726154Z</updated>
-    <id>https://techpulse.ai/</id>
+    <link href="https://tukinokurousagi.github.io/techpulse-ai/feed.xml" rel="self" />
+    <link href="https://tukinokurousagi.github.io/techpulse-ai/" />
+    <updated>2026-09-30T16:48:59.879220Z</updated>
+    <id>https://tukinokurousagi.github.io/techpulse-ai/</id>
     <author>
         <name>TechPulse AI</name>
     </author>
     
     <entry>
         <title>自律ロボットのスキル学習を加速する「Skill-Space Shooting」：Foundation Modelと行動修正の融合</title>
-        <link href="https://techpulse.ai/posts/article-f592224b.html" />
-        <id>https://techpulse.ai/posts/article-f592224b.html</id>
-        <updated>2026-09-30T16:27:10.726154Z</updated>
+        <link href="https://tukinokurousagi.github.io/techpulse-ai/posts/article-f592224b.html" />
+        <id>https://tukinokurousagi.github.io/techpulse-ai/posts/article-f592224b.html</id>
+        <updated>2026-09-30T16:48:59.879220Z</updated>
         <summary>Foundation Modelを活用し、自律ロボットが失敗から効率的に学習し、行動を改善する「Skill-Space Shooting」の解説記事。</summary>
     </entry>
     <entry>
         <title>Point2Part：点プロンプトによる統一的な3Dパーツ分割 – 新たな部品分解アプローチで3Dモデルの可能性を解き放つ</title>
-        <link href="https://techpulse.ai/posts/article-74b3986c.html" />
-        <id>https://techpulse.ai/posts/article-74b3986c.html</id>
-        <updated>2026-09-30T16:27:10.726154Z</updated>
+        <link href="https://tukinokurousagi.github.io/techpulse-ai/posts/article-74b3986c.html" />
+        <id>https://tukinokurousagi.github.io/techpulse-ai/posts/article-74b3986c.html</id>
+        <updated>2026-09-30T16:48:59.879220Z</updated>
         <summary>Point2Partは、3Dオブジェクトのパーツ分解におけるオーバーラップとギャップの問題を解決する統一的アプローチを提案。点プロンプトで非重複かつ完全な分割を実現し、ロボット工学、3Dモデリング、AR/VRなど多分野に応用。</summary>
     </entry>
 </feed>

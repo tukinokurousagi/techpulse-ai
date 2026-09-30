@@ -168,8 +168,103 @@ a:hover {
 
 .site-footer {
     border-top: 1px solid var(--border-color);
-    padding: 2rem 0;
+    padding: 2.5rem 0;
     text-align: center;
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+}
+
+.site-nav a {
+    margin-left: 1.25rem;
+    font-weight: 500;
+}
+
+.footer-links {
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+    margin-bottom: 1rem;
+}
+
+.footer-links a {
+    color: var(--text-color);
+    opacity: 0.8;
+    font-size: 0.9rem;
+}
+
+.footer-links a:hover {
+    opacity: 1;
+    color: var(--primary-color);
+}
+
+.static-page-container {
+    max-width: 800px;
+    padding: 2.5rem 1rem;
+}
+
+.static-content h1 {
+    font-size: 2.2rem;
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid var(--primary-color);
+}
+
+.static-content h2 {
+    font-size: 1.4rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    border-left: 4px solid var(--primary-color);
+    padding-left: 0.75rem;
+}
+
+.static-content p {
+    margin-bottom: 1.25rem;
+    line-height: 1.8;
+}
+
+.static-content ul {
+    margin-bottom: 1.5rem;
+    padding-left: 1.5rem;
+    line-height: 1.8;
+}
+
+.info-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5rem 0;
+}
+
+.info-table th, .info-table td {
+    padding: 0.75rem 1rem;
+    border: 1px solid var(--border-color);
+    text-align: left;
+}
+
+.info-table th {
+    background: var(--secondary-color);
+    width: 25%;
+    font-weight: 600;
+}
+
+.contact-box {
+    background: var(--card-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin: 1.5rem 0;
+}
+
+.policy-date {
+    margin-top: 2.5rem;
+    font-size: 0.85rem;
+    color: #888;
+    text-align: right;
 }
 
 @media print {

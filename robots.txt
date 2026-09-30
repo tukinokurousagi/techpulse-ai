@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://techpulse.ai/sitemap.xml
+Sitemap: https://tukinokurousagi.github.io/techpulse-ai/sitemap.xml
