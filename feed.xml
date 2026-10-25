@@ -3,24 +3,38 @@
     <title>TechPulse AI</title>
     <link href="https://tukinokurousagi.github.io/techpulse-ai/feed.xml" rel="self" />
     <link href="https://tukinokurousagi.github.io/techpulse-ai/" />
-    <updated>2026-09-30T17:02:40.945133Z</updated>
+    <updated>2026-10-26T02:14:49.323427Z</updated>
     <id>https://tukinokurousagi.github.io/techpulse-ai/</id>
     <author>
         <name>TechPulse AI</name>
     </author>
     
     <entry>
+        <title>OpenVLHarness解説：マルチモーダルメモリとツール活用で切り拓く実世界ビジュアルエージェントの新地平</title>
+        <link href="https://tukinokurousagi.github.io/techpulse-ai/posts/article-58698a79.html" />
+        <id>https://tukinokurousagi.github.io/techpulse-ai/posts/article-58698a79.html</id>
+        <updated>2026-10-26T02:14:49.323427Z</updated>
+        <summary>論文『OpenVLHarness』を解説。MLLMの内部推論拡大の限界を検証し、異種ツールの活用とマルチモーダルメモリによって実世界の高度な視覚タスクを解決する自律型ビジュアルエージェントの仕組みと成果を紹介します。</summary>
+    </entry>
+    <entry>
+        <title>言語モデルの事前学習は不要？ゼロから学ぶ画像生成AI「Halcyon」が示す新たなパラダイム</title>
+        <link href="https://tukinokurousagi.github.io/techpulse-ai/posts/article-58479ebd.html" />
+        <id>https://tukinokurousagi.github.io/techpulse-ai/posts/article-58479ebd.html</id>
+        <updated>2026-10-26T02:14:49.323427Z</updated>
+        <summary>言語モデルの事前学習は画像生成に不要？新モデル「Halcyon」は18.2倍少ない計算量で従来モデルを凌駕。Early-fusion自己回帰を用いた革新的アプローチを徹底解説します。</summary>
+    </entry>
+    <entry>
         <title>自律ロボットのスキル学習を加速する「Skill-Space Shooting」：Foundation Modelと行動修正の融合</title>
         <link href="https://tukinokurousagi.github.io/techpulse-ai/posts/article-f592224b.html" />
         <id>https://tukinokurousagi.github.io/techpulse-ai/posts/article-f592224b.html</id>
-        <updated>2026-09-30T17:02:40.945133Z</updated>
+        <updated>2026-10-26T02:14:49.323427Z</updated>
         <summary>Foundation Modelを活用し、自律ロボットが失敗から効率的に学習し、行動を改善する「Skill-Space Shooting」の解説記事。</summary>
     </entry>
     <entry>
         <title>Point2Part：点プロンプトによる統一的な3Dパーツ分割 – 新たな部品分解アプローチで3Dモデルの可能性を解き放つ</title>
         <link href="https://tukinokurousagi.github.io/techpulse-ai/posts/article-74b3986c.html" />
         <id>https://tukinokurousagi.github.io/techpulse-ai/posts/article-74b3986c.html</id>
-        <updated>2026-09-30T17:02:40.945133Z</updated>
+        <updated>2026-10-26T02:14:49.323427Z</updated>
         <summary>Point2Partは、3Dオブジェクトのパーツ分解におけるオーバーラップとギャップの問題を解決する統一的アプローチを提案。点プロンプトで非重複かつ完全な分割を実現し、ロボット工学、3Dモデリング、AR/VRなど多分野に応用。</summary>
     </entry>
 </feed>
